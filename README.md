@@ -1,5 +1,10 @@
 # システム概要
-1. Furniture selection 
-    a. Furniture detection
-    b. Display of musical instruments that correspond to furniture (You can choose the instrument that matches furniture)
-2. Performance Time
+- 「日常に溢れる物体を、楽器にして合奏！」と題した、MetaQutest3を用いたMRアプリケーション
+- 物体検出で認識した物体（椅子やクッション等）に、好きな楽器を割り当てる
+- コントローラーで楽器に触れると、音が出る仕様
+- コントローラーのボタンを押すと、音階が変わる
+
+# 貢献
+- 物体に音を授ける
+- 楽器を買わずに、体験できる
+- 騒音を起こすことがない
