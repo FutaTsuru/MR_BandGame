@@ -4,6 +4,8 @@
 - コントローラーで楽器に触れると、音が出る仕様
 - コントローラーのボタンを押すと、音階が変わる
 
+https://github.com/user-attachments/assets/d0a4aacc-cac0-4cd6-a42e-904dc18ebe71
+
 # 貢献
 - 物体に音を授ける
 - 楽器を買わずに、体験できる
